@@ -1,0 +1,29 @@
+body {
+    background-image: url("/images/nypark.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+ .navbar-brand   {
+     padding: 30;;
+     font-size: 40px;
+     font-style: arial;
+     
+
+ }
+
+ .nav-link {
+    font-size: 20px;
+    font-style: bold;
+
+ }
+
+ .card-title  {
+     font-style: bold;
+     font-size: 20px;
+
+ }
+
